@@ -1,5 +1,5 @@
 import React from "react";
-import briyani01lft from "../assets/bry09.jpg";
+import briyani01lft from "../assets/bry02.jpg";
 import "../styles/Contact.css";
 
 function Contact() {
